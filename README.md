@@ -1,13 +1,12 @@
-# A simple Calculator
- A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic](https://user-images.githubusercontent.com/39196039/40139639-27db8c64-596e-11e8-9537-04a5b5d07170.jpg)
- This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+# Uma Simples Calculadora
+ Uma Simples Calculadora HTML, CSS &amp; Javascript
+ Esta é uma funcionalidade simples de calculadora obtida usando Javascript. A lógica é muito simples com o mínimo de linhas de código possível.
  
-## Steps to execute this calculator:
+## Passos para executar esta calculadora:
 - Download the entire code 
 - Open up the index.html.
 
-## Technologies used: 
+## Tecnologias utilizadas: 
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
